@@ -44,7 +44,7 @@ Aplikasi ini dibangun menggunakan arsitektur **Eel**, menggabungkan kekuatan **P
 
 Jika proyek ini mempermudah pekerjaan Anda, pertimbangkan untuk memberikan dukungan agar pengembangan fitur baru tetap berjalan:
 
-| Platform | Link / Widget |
+| Platform | Link |
 | :--- | :--- |
 | **Ko-fi** | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/a80ul) |
 | **Saweria** | [![Saweria](https://img.shields.io/badge/Saweria-Donasi-orange?style=for-the-badge&logo=heart)](https://saweria.co/A80ul421) |
